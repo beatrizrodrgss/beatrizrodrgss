@@ -1,8 +1,9 @@
 ### Beatriz Rodrigues 👩‍💻
 
-- 🔭 Analista de Testes Junior | QA.
-- 👩‍💻 Testes manuais | Documentações | Estudante de Automatizados.
-- 👾 Acadêmica em Ciência da Computação.
+- 🔭 Analista de Testes Junior.
+- 💡 Desenvolvedora orientada a café e a bug report.
+- 💻 Bug hunter | QA. 🐞🔍🪓
+- 👾 ACD. Ciências da Computação.
 - 😄 (ela/she/her).
 
 <div align="center">
