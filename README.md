@@ -5,7 +5,6 @@
 - 👾 Acadêmica em Ciência da Computação.
 - 😄 (ela/she/her).
 
-
 <div align="center">
   <a href="https://github.com/beatrizrodrgss">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=beatrizrodrgss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
