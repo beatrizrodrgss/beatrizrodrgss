@@ -1,4 +1,4 @@
-### Beatriz Rodrigues 👩‍💻
+### Beatriz Rodrigues.
 
 - 🔭 Analista de Testes Junior.
 - 💡 Desenvolvedora orientada a café e a bug report.
