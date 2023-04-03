@@ -5,6 +5,7 @@
 - 💻 Bug hunter | QA. 🐞🔍🪓
 - 👾 ACD. Ciências da Computação.
 - 😄 (ela/she/her).
+- https://bearodrgs.carrd.co/?fbclid=PAAaaLX0uv6UO3rVIK2PaokWMMPJ51rhdQ0X2nt9BokQ2RcYgFsTwxvIzxAdw
 
 
 ##
