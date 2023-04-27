@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=beatrizrodrgss&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://i.redd.it/jldb0s8xfhl01.png)" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
