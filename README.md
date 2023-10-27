@@ -13,7 +13,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) 
-![Cypress](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=cypress&logoColor=5849BE) 
+![Cypress](https://img.shields.io/badge/Cypress-black?style=plastic&logo=cypress&logoColor=5849BE) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
