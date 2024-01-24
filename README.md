@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Analista de Testes Junior.<br>💡 Desenvolvedora orientada a café e a bug report.<br>💻 Bug hunter | QA. 🐞🔍🪓<br>👾 ACD. Ciências da Computação.<br>😄 (ela/she/her).
+🔭 Analista de Testes.<br>💡 Desenvolvedora orientada a café e a bug report.<br>💻 Bug hunter | QA. 🐞🔍🪓<br>👾 ACD. Ciências da Computação.<br>😄 (ela/she/her).
 
 
 ## 🌐 Socials:
