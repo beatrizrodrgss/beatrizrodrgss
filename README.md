@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Test Developer.<br>💡 Desenvolvedora orientada a café e a bug report.<br>💻 Bug hunter | QA. 🐞🔍🪓<br>👾 Ciência da Computação.<br>😄 (ela/she/her).
+🔭 Software Test Developer.<br>💡 Desenvolvedora orientada a café e a bug report.<br>💻 Bug hunter | QA. 🐞🔍🪓<br>👾 Ciência da Computação.<br>
 
 
 ## 🌐 Socials:
